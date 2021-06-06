@@ -1,0 +1,115 @@
+{
+   "centers":[
+      {
+         "center_id":582042,
+         "name":"TeraiLions Blood Bank Siliguri",
+         "address":"Terai Lions Blood Bank Siliguri",
+         "state_name":"West Bengal",
+         "district_name":"Darjeeling",
+         "block_name":"Siliguri MC",
+         "pincode":734001,
+         "lat":26,
+         "long":88,
+         "from":"09:00:00",
+         "to":"16:00:00",
+         "fee_type":"Paid",
+         "sessions":[
+            {
+               "session_id":"61d67a55-4e93-4ab8-9722-879477c7f900",
+               "date":"06-06-2021",
+               "available_capacity":0,
+               "min_age_limit":45,
+               "vaccine":"COVISHIELD",
+               "slots":[
+                  "09:00AM-11:00AM",
+                  "11:00AM-01:00PM",
+                  "01:00PM-03:00PM",
+                  "03:00PM-04:00PM"
+               ],
+               "available_capacity_dose1":0,
+               "available_capacity_dose2":0
+            },
+            {
+               "session_id":"11456398-be8b-4e55-b0f1-3f04ad95b14f",
+               "date":"06-06-2021",
+               "available_capacity":0,
+               "min_age_limit":18,
+               "vaccine":"COVISHIELD",
+               "slots":[
+                  "09:00AM-11:00AM",
+                  "11:00AM-01:00PM",
+                  "01:00PM-03:00PM",
+                  "03:00PM-04:00PM"
+               ],
+               "available_capacity_dose1":0,
+               "available_capacity_dose2":0
+            }
+         ],
+         "vaccine_fees":[
+            {
+               "vaccine":"COVISHIELD",
+               "fee":"800"
+            }
+         ]
+      },
+      {
+         "center_id":647405,
+         "name":"SURAKSHA DIAGNOSTIC PVT LTD",
+         "address":"UDHAM SINGH SARANI ASHRAMPARA SEVOKE ROAD",
+         "state_name":"West Bengal",
+         "district_name":"Darjeeling",
+         "block_name":"Siliguri MC",
+         "pincode":734001,
+         "lat":26,
+         "long":88,
+         "from":"11:00:00",
+         "to":"14:30:00",
+         "fee_type":"Paid",
+         "sessions":[
+            {
+               "session_id":"f7355e37-2aa5-45b1-a6c3-9a5ff444bdd6",
+               "date":"07-06-2021",
+               "available_capacity":0,
+               "min_age_limit":18,
+               "vaccine":"COVISHIELD",
+               "slots":[
+                  "11:00AM-01:00PM",
+                  "01:00PM-02:30PM"
+               ],
+               "available_capacity_dose1":0,
+               "available_capacity_dose2":0
+            },
+            {
+               "session_id":"2dad3d64-5d46-44db-ac3a-3bf77e9d0e3c",
+               "date":"08-06-2021",
+               "available_capacity":0,
+               "min_age_limit":18,
+               "vaccine":"COVISHIELD",
+               "slots":[
+                  "11:00AM-01:00PM"
+               ],
+               "available_capacity_dose1":20,
+               "available_capacity_dose2":0
+            },
+            {
+               "session_id":"b55db1de-bab9-40d4-abfb-ddcbebf7ff3c",
+               "date":"09-06-2021",
+               "available_capacity":0,
+               "min_age_limit":18,
+               "vaccine":"COVISHIELD",
+               "slots":[
+                  "11:00AM-01:00PM"
+               ],
+               "available_capacity_dose1":10,
+               "available_capacity_dose2":0
+            }
+         ],
+         "vaccine_fees":[
+            {
+               "vaccine":"COVISHIELD",
+               "fee":"900"
+            }
+         ]
+      }
+   ]
+}
